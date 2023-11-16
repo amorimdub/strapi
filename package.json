@@ -17,7 +17,7 @@
     "@strapi/plugin-i18n": "4.12.1",
     "@strapi/plugin-open-ai": "^1.0.1",
     "@strapi/plugin-users-permissions": "4.12.1",
-    "@strapi/strapi": "4.12.1",
+    "@strapi/strapi": "4.15.4",
     "better-sqlite3": "8.5.0",
     "pg": "^8.11.2",
     "strapi-plugin-slugify": "^2.3.3"
